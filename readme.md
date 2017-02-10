@@ -44,7 +44,7 @@ Use [Active Record queries](http://guides.rubyonrails.org/active_record_querying
 
 ## Part 1.3 - Use your Model Associations
 
-In the console...  
+In pry (via the console)...  
 
 1. Find the artist with the name Enya
 2. Use AR methods to find all of Enya's songs, store them in a variable
